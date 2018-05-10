@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComLinqs", "TrabalhandoComLinqs\TrabalhandoComLinqs.csproj", "{C5A9B7E7-6AB4-45A2-9B17-85011BA9D323}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoLinq2", "TrabalhandoLinq2\TrabalhandoLinq2.csproj", "{99EA1B37-1917-4F72-A496-6D83A43290D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C5A9B7E7-6AB4-45A2-9B17-85011BA9D323}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5A9B7E7-6AB4-45A2-9B17-85011BA9D323}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5A9B7E7-6AB4-45A2-9B17-85011BA9D323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EA1B37-1917-4F72-A496-6D83A43290D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EA1B37-1917-4F72-A496-6D83A43290D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EA1B37-1917-4F72-A496-6D83A43290D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EA1B37-1917-4F72-A496-6D83A43290D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
